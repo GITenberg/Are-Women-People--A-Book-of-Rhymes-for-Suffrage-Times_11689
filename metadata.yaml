@@ -1,0 +1,28 @@
+_repo: Are-Women-People--A-Book-of-Rhymes-for-Suffrage-Times_11689
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Miller, Alice Duer
+    alias: Duer, Alice
+    birthdate: 1874
+    deathdate: 1942
+    gutenberg_agent_id: '3939'
+    url: http://www.gutenberg.org/2009/agents/3939
+    wikipedia: http://en.wikipedia.org/wiki/Alice_Duer_Miller
+description: This is a collection of poetry concerning suffrage and women's rights,
+  much of which was first published in the "New York Times."
+gutenberg_bookshelf: Suffrage
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11689'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'JF'
+- !lcsh 'Women -- Suffrage -- Poetry'
+- GITenberg
+title: Are Women People? A Book of Rhymes for Suffrage Times
+url: http://www.gutenberg.org/ebooks/11689
